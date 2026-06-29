@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Mohammad Saiful Islam 👋
 
-<!--
-**saifdream/saifdream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 9+ years of experience building enterprise web and mobile applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Angular
+* React
+* Next.js
+* TypeScript
+* NgRx
+* Redux Toolkit
+* React Native
+* Node.js
+* Django REST Framework
+* MongoDB
+* SQL Server
+
+## Current Focus
+
+* Enterprise Frontend Architecture
+* Angular
+* React
+* System Design
+* Software Architecture
+* Performance Optimization
+
+## Industries
+
+* Insurance
+* ERP
+* HR Tech
+* E-commerce
+* FinTech
+
+## Let's Connect
+
+* LinkedIn
+* GitHub
+* Email: [saif89.2012@gmail.com](mailto:saif89.2012@gmail.com)
