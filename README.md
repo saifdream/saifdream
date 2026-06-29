@@ -12,9 +12,9 @@ Senior Software Engineer with 9+ years of experience building enterprise web and
 * Redux Toolkit
 * React Native
 * Node.js
-* Django REST Framework
 * MongoDB
-* SQL Server
+* MySQL
+* PostgreSQL
 
 ## Current Focus
 
